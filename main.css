@@ -82,7 +82,9 @@ h1 {
   padding-bottom: 2rem;
   padding-top: 2rem;
 }
-
+details > summary::-webkit-details-marker{
+  display:none;
+}
 summary {
   outline: none;
   list-style: none;

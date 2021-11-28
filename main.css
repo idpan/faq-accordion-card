@@ -86,6 +86,7 @@ h1 {
 summary {
   outline: none;
   list-style: none;
+  -webkit-list-style: none;
   width: 100%;
   cursor: pointer;
   display: flex;
